@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sravani0501
-- 👀 I’m interested in FrontEnd web development,ML,Datascience
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in FrontEnd web development,Data Science
 -  💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
